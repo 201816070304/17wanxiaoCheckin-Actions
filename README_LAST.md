@@ -2,7 +2,7 @@
 
 ## 模拟器抓包获取数据（如果你的手机已ROOT可以直接用手机哦）
 
-### 1、模拟器配置及使用
+### 1、模拟器配置及使用1
 
 - 天翼网盘（含雷神模拟器、完美校园、httpcanary安装包）
 - 点链接进去全部下下来：https://cloud.189.cn/t/VRZryeb2aIBr
@@ -109,3 +109,4 @@ git gc --aggressive --prune=all     # remove the old files
 
 
 
+阿松大埃德森
