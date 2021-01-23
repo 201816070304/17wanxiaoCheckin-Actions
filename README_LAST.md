@@ -108,5 +108,3 @@ git gc --aggressive --prune=all     # remove the old files
 <img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/支付宝.jpg" width="300"/><img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/微信.png" width="300"/>
 
 
-
-阿松大埃德森
